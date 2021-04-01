@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>wallet.png</file>
+    <file>transfer-money.png</file>
+    <file>documents.png</file>
+    <file>accounting.png</file>
+  </qresource>
+</RCC>
